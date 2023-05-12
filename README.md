@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Dongbob-1011
-- 👀 I’m interested in Fabric Modding
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dongbob1011@outlook.com
+### 👋 Hi, I’m @Dongbob-1011
+I'm a highschool student from China 🇨🇳
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dongbob-1011&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dongbob-1011's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongbob-1011&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongbob-1011)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-Dongbob-1011/Dongbob-1011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**About me**
+- 📫 `dongbob1011@outlook.com`
+- 📱 [Bilibili](https://space.bilibili.com/575706684/) [Discord](https://space.bilibili.com/575706684/)
+- 🌱 I’m currently learning Java and Python mostly
+- 📹 Photography and Video Editing Enthusiast
+- 🎮 Play on [Steam](https://steamcommunity.com/id/dongbob1011/)
