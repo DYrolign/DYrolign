@@ -1,7 +1,3 @@
-<head>
-  <base target="_blank">
-</head>
-
 ### 👋 Hi, I’m @Dongbob-1011
 I'm a highschool student from China 🇨🇳
 
@@ -10,7 +6,7 @@ I'm a highschool student from China 🇨🇳
 
 **About me**
 - 📫 `dongbob1011@outlook.com`
-- 📱 [Bilibili](https://space.bilibili.com/575706684/) <a href="https://space.bilibili.com/575706684/" target="_blank">Bilibili</a>
+- 📱 [Bilibili](https://space.bilibili.com/575706684/)
 - 🌱 I’m currently learning Java and Python mostly
 - 📹 Photography and Video Editing Enthusiast
 - 🎮 Play on [Steam](https://steamcommunity.com/id/dongbob1011/)
