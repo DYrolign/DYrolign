@@ -6,7 +6,7 @@ I'm a highschool student from China 🇨🇳
 
 **About me**
 - 📫 `dongbob1011@outlook.com`
-- 📱 [Bilibili](https://space.bilibili.com/575706684/) [Discord](https://space.bilibili.com/575706684/)
+- 📱 [Bilibili](https://space.bilibili.com/575706684/)
 - 🌱 I’m currently learning Java and Python mostly
 - 📹 Photography and Video Editing Enthusiast
 - 🎮 Play on [Steam](https://steamcommunity.com/id/dongbob1011/)
